@@ -88,7 +88,7 @@ body {
   visibility: hidden;
 }
 
-.form-control.success small {
+.form-control.error small {
   color: rgb(143, 53, 53);
   visibility: visible;
 }
@@ -103,4 +103,5 @@ body {
   font-size: 16px;
   font-family: inherit;
   display: block;
+  cursor: pointer;
 }
